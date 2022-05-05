@@ -23,6 +23,7 @@ a {
 
 *, *::before, *::after {
   box-sizing: border-box;
+  color: white;
 }
 
 input:focus, textarea:focus{
